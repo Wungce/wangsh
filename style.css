@@ -1,0 +1,13 @@
+body{
+    background-image: url(Boss.png);
+    background-size: cover;
+}
+.detail{
+    color: lightblue;
+    text-align: center;
+    font-family: italic;
+
+}
+.first-table{
+    margin-left: 50%;
+}
